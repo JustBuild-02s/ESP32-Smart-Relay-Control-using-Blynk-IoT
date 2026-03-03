@@ -38,3 +38,13 @@ Remote Device Control
 IoT Learning Projects
 
 Industrial Switching
+
+
+## 🎥 Project Demonstration
+
+This project is fully working and demonstrated in the video below:
+
+🔗 **Live Demo on LinkedIn:**  
+https://www.linkedin.com/posts/activity-7421708736089542656-S_-F
+
+Click the link above to see the ESP32 relay being controlled using Blynk in real-time.
