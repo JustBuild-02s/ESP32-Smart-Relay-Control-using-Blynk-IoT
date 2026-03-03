@@ -1,0 +1,7 @@
+🛠 Components Required
+ESP32 Dev Module
+1-Channel Relay Module
+Jumper Wires
+USB Cable
+WiFi Connection
+Blynk IoT Account
