@@ -1,0 +1,15 @@
+📲 Blynk Setup
+Create new Template in Blynk Cloud
+Select Hardware: ESP32
+Connection Type: WiFi
+
+Copy:
+Template ID
+Template Name
+Auth Token
+
+Add a Button Widget:
+Datastream: V1
+Mode: Switch
+ON = 1
+OFF = 0
