@@ -6,3 +6,11 @@ ESP32 → Relay Module
 | GND       | GND       |
 | GPIO 26   | IN        |
 ⚠ Do not connect anything to COM/NO unless connecting a load.
+
+🖼 Relay Pin Layout
+VCC → Power
+GND → Ground
+IN → Control pin
+COM → Common
+NO → Normally Open
+NC → Normally Closed
