@@ -1,0 +1,8 @@
+🔌 Circuit Connections
+ESP32 → Relay Module
+| ESP32 Pin | Relay Pin |
+| --------- | --------- |
+| VIN (5V)  | VCC       |
+| GND       | GND       |
+| GPIO 26   | IN        |
+⚠ Do not connect anything to COM/NO unless connecting a load.
